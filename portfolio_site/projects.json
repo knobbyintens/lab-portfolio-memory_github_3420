@@ -1,5 +1,5 @@
 {
-  "generated_for": "2026-11-11",
+  "generated_for": "2026-11-17",
   "projects": [
     {
       "name": "Nebula Search",
@@ -35,7 +35,7 @@
       "owner": "Leo Tan",
       "owner_github": "@leo-tan",
       "deadline": "2026-12-17",
-      "section": "standard"
+      "section": "priority"
     },
     {
       "name": "Vega Ingestion",
